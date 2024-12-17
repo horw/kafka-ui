@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://docs.kafka-ui.provectus.io/">DOCS</a> • 
-    <a href="https://docs.kafka-ui.provectus.io/configuration/quick-start">QUICK START</a> • 
+    <a href="https://docs.kafka-ui.provectus.io/quick-start/demo-run">QUICK START</a> • 
     <a href="https://discord.gg/4DWzD7pGE5">COMMUNITY DISCORD</a>
     <br/>
     <a href="https://aws.amazon.com/marketplace/pp/prodview-ogtt5hfhzkq6a">AWS Marketplace</a>  •
